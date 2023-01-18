@@ -3,6 +3,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santicuevas" alt="santicuevas" /></a> </p> -->
 
+<p align="center"> Soy un apasionado por la tecnología y por aprender cosas nuevas. Soy una persona empatica, analítica, con grandes habilidades de comunicación y adaptabilidad. Tengo experiencia en trabajo en equipo, desarrollo de proyectos con metodología SCRUM, resolución de problemas, liderazgo, entre otras cosas. Esta experiencia me ha enseñado tanto la tolerancia, cómo en el autocontrol ante las adversidades, lo que favorece mi adaptación al cambio, potenciando asi mis habilidades de liderazgo. Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea. Me especializo en diseño de servidores y bases de datos, así como también en el desarrollo de experiencia de usuario. </p>
+
 - 🔭 I’m currently working on [Oasis Library](https://oasis-library.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SantiCuevas](https://github.com/SantiCuevas)
