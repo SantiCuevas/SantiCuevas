@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, Soy Santiago</h1>
+<h3 align="center">Un apasionado desarrollador de Argentina</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santicuevas" alt="santicuevas" /></a> </p> -->
 
 <p align="center"> Soy un apasionado por la tecnología y por aprender cosas nuevas. Soy una persona empatica, analítica, con grandes habilidades de comunicación y adaptabilidad. Tengo experiencia en trabajo en equipo, desarrollo de proyectos con metodología SCRUM, resolución de problemas, liderazgo, entre otras cosas. Esta experiencia me ha enseñado tanto la tolerancia, cómo en el autocontrol ante las adversidades, lo que favorece mi adaptación al cambio, potenciando asi mis habilidades de liderazgo. Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea. Me especializo en diseño de servidores y bases de datos, así como también en el desarrollo de experiencia de usuario. </p>
 
-- 🔭 I’m currently working on [Oasis Library](https://oasis-library.vercel.app/)
+- 🔭 Actualmente estoy desarrollando: [Oasis Library](https://oasis-library.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SantiCuevas](https://github.com/SantiCuevas)
+<!-- - 👨‍💻 Más proyectos disponibles en: [https://github.com/SantiCuevas](https://github.com/SantiCuevas) -->
 
-- 📫 How to reach me **santicuevas34@gmail.com**
+- 📫 Como contactarme: **santicuevas34@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Escribime:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiagocuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagocuevas" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
